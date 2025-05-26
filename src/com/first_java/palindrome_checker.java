@@ -1,6 +1,6 @@
 package com.first_java;
 import java.util.Scanner;
-import java.util.Scanner;
+
 
 public class palindrome_checker {
 	public static boolean isPalindrome(String str) {
