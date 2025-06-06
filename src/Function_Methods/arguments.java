@@ -7,6 +7,7 @@ public class arguments {
 				
 	}
 	
+	
 	static int nums(int a, int b) {
 		int sum =a +b;
 		return sum;
