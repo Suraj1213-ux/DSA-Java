@@ -4,7 +4,7 @@ package LinearSearch;
 public class StringSearch {
 	public static void main(String[] args) {
 		String name ="Suraj";
-		char target ='w';
+		char target ='u';
 		System.out.println(search(name,target));
 	}
 
